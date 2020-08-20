@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596290211 source:d:\project\icpcpractice\codechef\life_the_universe_the_everything\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596351467 source:d:\project\icpcpractice\codechef\racing_horses\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
